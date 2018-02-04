@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\bin\Debug\CharitySimpleEx.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\bin\Debug\CharitySimpleEx.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\bin\Debug\CharitySimpleEx.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\obj\Debug\CharitySimpleEx.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\obj\Debug\CharitySimpleEx.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\obj\Debug\CharitySimpleEx.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\CharitySimpleEx\obj\Debug\CharitySimpleEx.pdb

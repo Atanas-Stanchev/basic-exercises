@@ -1,0 +1,1 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp2\obj\Debug\PointOnSegment.csproj.CoreCompileInputs.cache

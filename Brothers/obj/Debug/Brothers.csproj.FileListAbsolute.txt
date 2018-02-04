@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\bin\Debug\Brothers.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\bin\Debug\Brothers.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\bin\Debug\Brothers.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\obj\Debug\Brothers.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\obj\Debug\Brothers.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\obj\Debug\Brothers.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\Brothers\obj\Debug\Brothers.csprojResolveAssemblyReference.cache

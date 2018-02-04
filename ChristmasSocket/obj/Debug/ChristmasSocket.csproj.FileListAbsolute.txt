@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\bin\Debug\ChristmasSocket.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\bin\Debug\ChristmasSocket.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\bin\Debug\ChristmasSocket.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\obj\Debug\ChristmasSocket.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\obj\Debug\ChristmasSocket.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\obj\Debug\ChristmasSocket.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\ChristmasSocket\obj\Debug\ChristmasSocket.csprojResolveAssemblyReference.cache

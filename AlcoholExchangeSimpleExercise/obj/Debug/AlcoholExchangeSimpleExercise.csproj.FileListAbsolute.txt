@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\bin\Debug\AlcoholExchangeSimpleExercise.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\bin\Debug\AlcoholExchangeSimpleExercise.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\bin\Debug\AlcoholExchangeSimpleExercise.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\obj\Debug\AlcoholExchangeSimpleExercise.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\obj\Debug\AlcoholExchangeSimpleExercise.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\obj\Debug\AlcoholExchangeSimpleExercise.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\AlcoholExchangeSimpleExercise\obj\Debug\AlcoholExchangeSimpleExercise.pdb

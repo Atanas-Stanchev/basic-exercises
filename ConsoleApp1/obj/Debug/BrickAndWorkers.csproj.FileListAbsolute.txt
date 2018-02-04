@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\obj\Debug\BrickAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\obj\Debug\BrickAndWorkers.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
