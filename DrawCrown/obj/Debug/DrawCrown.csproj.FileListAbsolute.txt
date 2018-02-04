@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\bin\Debug\DrawCrown.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\bin\Debug\DrawCrown.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\bin\Debug\DrawCrown.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\obj\Debug\DrawCrown.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\obj\Debug\DrawCrown.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCrown\obj\Debug\DrawCrown.pdb

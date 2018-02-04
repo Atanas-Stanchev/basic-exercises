@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\bin\Debug\EnergyLoss.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\bin\Debug\EnergyLoss.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\bin\Debug\EnergyLoss.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\obj\Debug\EnergyLoss.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\obj\Debug\EnergyLoss.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\EnergyLoss\obj\Debug\EnergyLoss.pdb

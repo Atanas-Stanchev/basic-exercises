@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\bin\Debug\Exam.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\bin\Debug\Exam.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\bin\Debug\Exam.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\obj\Debug\IvanoviFamily.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\obj\Debug\IvanoviFamily.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\obj\Debug\Exam.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\Exam\obj\Debug\Exam.pdb

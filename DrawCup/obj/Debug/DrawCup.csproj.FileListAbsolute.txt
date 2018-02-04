@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\bin\Debug\DrawCup.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\bin\Debug\DrawCup.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\bin\Debug\DrawCup.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\obj\Debug\DrawCup.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\obj\Debug\DrawCup.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\obj\Debug\DrawCup.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawCup\obj\Debug\DrawCup.pdb

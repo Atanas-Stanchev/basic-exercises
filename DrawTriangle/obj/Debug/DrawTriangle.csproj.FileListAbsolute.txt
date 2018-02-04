@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\bin\Debug\DrawTriangle.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\bin\Debug\DrawTriangle.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\bin\Debug\DrawTriangle.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\obj\Debug\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\obj\Debug\DrawTriangle.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\obj\Debug\DrawTriangle.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\DrawTriangle\obj\Debug\DrawTriangle.csprojResolveAssemblyReference.cache

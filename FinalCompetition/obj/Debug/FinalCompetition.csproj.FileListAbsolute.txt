@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\bin\Debug\FinalCompetition.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\bin\Debug\FinalCompetition.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\bin\Debug\FinalCompetition.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\obj\Debug\FinalCompetition.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\obj\Debug\FinalCompetition.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\obj\Debug\FinalCompetition.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FinalCompetition\obj\Debug\FinalCompetition.pdb
