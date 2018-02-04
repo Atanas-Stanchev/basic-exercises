@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\bin\Debug\NameOfGroup.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\bin\Debug\NameOfGroup.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\bin\Debug\NameOfGroup.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\obj\Debug\NameOfGroup.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\obj\Debug\NameOfGroup.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\obj\Debug\NameOfGroup.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\NameOfGroup\obj\Debug\NameOfGroup.pdb

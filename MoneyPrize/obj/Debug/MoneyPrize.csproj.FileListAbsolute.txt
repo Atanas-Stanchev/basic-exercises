@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\bin\Debug\MoneyPrize.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\bin\Debug\MoneyPrize.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\bin\Debug\MoneyPrize.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\obj\Debug\MoneyPrize.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\obj\Debug\MoneyPrize.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\obj\Debug\MoneyPrize.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MoneyPrize\obj\Debug\MoneyPrize.pdb

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\bin\Debug\MobileOperator.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\bin\Debug\MobileOperator.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\bin\Debug\MobileOperator.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\obj\Debug\MobileOperator.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\obj\Debug\MobileOperator.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MobileOperator\obj\Debug\MobileOperator.pdb

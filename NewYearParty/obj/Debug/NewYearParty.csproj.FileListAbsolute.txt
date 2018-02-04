@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\bin\Debug\NewYearParty.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\bin\Debug\NewYearParty.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\bin\Debug\NewYearParty.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\obj\Debug\NewYearParty.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\obj\Debug\NewYearParty.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\NewYearParty\obj\Debug\NewYearParty.pdb

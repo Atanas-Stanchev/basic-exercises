@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\obj\Debug\MonthlyCost.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\obj\Debug\MonthlyCost.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\bin\Debug\MonthlyCost.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\bin\Debug\MonthlyCost.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\bin\Debug\MonthlyCost.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\obj\Debug\MonthlyCost.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\MonthlyCost\obj\Debug\MonthlyCost.pdb
