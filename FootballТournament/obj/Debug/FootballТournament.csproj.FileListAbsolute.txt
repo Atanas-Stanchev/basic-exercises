@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\bin\Debug\FootballТournament.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\bin\Debug\FootballТournament.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\bin\Debug\FootballТournament.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\obj\Debug\FootballТournament.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\obj\Debug\FootballТournament.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\obj\Debug\FootballТournament.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FootballТournament\obj\Debug\FootballТournament.pdb

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\bin\Debug\FourWheelsSongPass.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\bin\Debug\FourWheelsSongPass.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\bin\Debug\FourWheelsSongPass.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\obj\Debug\FourWheelsSongPass.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\obj\Debug\FourWheelsSongPass.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\obj\Debug\FourWheelsSongPass.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FourWheelsSongPass\obj\Debug\FourWheelsSongPass.pdb

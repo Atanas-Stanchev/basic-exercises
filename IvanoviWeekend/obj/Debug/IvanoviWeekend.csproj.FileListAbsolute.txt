@@ -1,0 +1,6 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\bin\Debug\IvanoviWeekend.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\bin\Debug\IvanoviWeekend.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\bin\Debug\IvanoviWeekend.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\obj\Debug\IvanoviWeekend.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\obj\Debug\IvanoviWeekend.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\IvanoviWeekend\obj\Debug\IvanoviWeekend.pdb

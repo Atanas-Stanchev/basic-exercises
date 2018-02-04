@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\bin\Debug\grandfatherStavri.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\bin\Debug\grandfatherStavri.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\bin\Debug\grandfatherStavri.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\obj\Debug\grandfatherStavri.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\obj\Debug\grandfatherStavri.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\obj\Debug\grandfatherStavri.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\grandfatherStavri\obj\Debug\grandfatherStavri.pdb

@@ -1,0 +1,7 @@
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\bin\Debug\FruitCocktail.exe.config
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\bin\Debug\FruitCocktail.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\bin\Debug\FruitCocktail.pdb
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\obj\Debug\FruitCocktail.csprojResolveAssemblyReference.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\obj\Debug\FruitCocktail.csproj.CoreCompileInputs.cache
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\obj\Debug\FruitCocktail.exe
+C:\Users\obedn\Desktop\C#\Practice\Practice\FruitCocktail\obj\Debug\FruitCocktail.pdb
